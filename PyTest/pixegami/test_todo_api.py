@@ -1,6 +1,5 @@
 """
 Test file for todo_api.py
-- Python\\!Python_Courses\\Python-PyTest\\PyTest_REST-API_Testing_pixegami.docx
 - Uses existing API built/hosted by course instructor. Has video demoing how to build it.
 """
 import requests
