@@ -9,18 +9,18 @@ import uuid
 
 ENDPOINT = "https://todo.pixegami.io"
 """
+# Initial demo of principles.
 response = requests.get(ENDPOINT)   # Making an HTTP Request.
 print(response)                     # prints just the status code, [200].
 data = response.json()              # returns the entire response message.
 print(data)                         # prints the hello message.
 status_code = response.status_code  # returns just the status code.
 print(status_code)                  # prints just the status code.
+
+def test_can_call_endpoint():
+    response_root = requests.get(ENDPOINT)
+    assert response_root.status_code == 200  # pass for 200, fail otherwise.
 """
-
-
-# def test_can_call_endpoint():
-#     response_root = requests.get(ENDPOINT)
-#     assert response_root.status_code == 200  # pass for 200, fail otherwise.
 
 
 def test_can_create_task():
