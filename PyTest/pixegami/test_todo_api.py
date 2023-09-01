@@ -2,7 +2,7 @@
 Test file for todo_api.py
 - Uses existing API built/hosted by course instructor. Has video demoing how to build it.
 
-commit-1. Something new.
+commit-1. addition.
 """
 import requests
 import uuid
