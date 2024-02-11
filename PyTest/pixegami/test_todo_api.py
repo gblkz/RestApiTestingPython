@@ -2,8 +2,8 @@
 Test file for todo_api.py
 - Uses existing API built/hosted by course instructor. Has video demoing how to build it.
 
-commit-1. More additions.
-Second addition to look cool?
+Deploy a defect DB.
+Implement TDD.
 """
 import requests
 import uuid
