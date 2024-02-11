@@ -25,7 +25,7 @@ def test_can_call_endpoint():
 
 
 def test_can_create_task():
-    # Payload has the Request body having the endpoint schema from the docs page.
+    # Payload has the Request body with endpoint schema from the docs page.
     # Populate with test data. task_id required only for update as it's auto-generated.
     payload = new_task_payload()
 
