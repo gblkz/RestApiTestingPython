@@ -3,7 +3,7 @@ Test file for todo_api.py
 - Uses existing API built/hosted by course instructor. Has video demoing how to build it.
 
 Deploy a defect DB.
-Deploy an automation pipeline as well.
+
 """
 import requests
 import uuid
