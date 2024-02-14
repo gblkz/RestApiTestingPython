@@ -2,7 +2,7 @@
 Test file for todo_api.py
 - Uses existing API built/hosted by course instructor. Has video demoing how to build it.
 
-Deploy a defect DB.
+Deploy a defect DB for code review.
 
 """
 import requests
