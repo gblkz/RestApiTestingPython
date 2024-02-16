@@ -2,7 +2,10 @@
 Test file for todo_api.py
 - Uses existing API built/hosted by course instructor. Has video demoing how to build it.
 
-Deploy a defect DB for code review.
+Deploy a defect DB for code review. Need to accommodate all project types:
+- AlgoExpert practice.
+- Pixegami
+- API projects.
 Use these API techniques with the Space Invader game build.
 
 """
