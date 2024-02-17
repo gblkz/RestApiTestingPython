@@ -7,7 +7,7 @@ Deploy a defect DB for code review. Need to accommodate all project types:
 - Pixegami
 - API projects.
 - Guilded Rose refactor kata. Bug initial version. Add bugs as review finds.
-Use these API techniques with the Space Invader game build.
+- Use these API techniques with the Space Invader game build.
 
 """
 import requests
