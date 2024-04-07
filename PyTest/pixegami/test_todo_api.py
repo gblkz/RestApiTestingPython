@@ -1,11 +1,9 @@
 """
 This project requires:
 - API hosted on publicly available URL.
+    - Use existing API built/hosted by course instructor. Has video demoing how to build it.
 - This automated API test suite.
 - PyTest configured for PyCharm.
-
-Test file for todo_api.py
-- Uses existing API built/hosted by course instructor. Has video demoing how to build it.
 
 Deploy a defect DB for code review. Need to accommodate all project types:
 - AlgoExpert practice.
