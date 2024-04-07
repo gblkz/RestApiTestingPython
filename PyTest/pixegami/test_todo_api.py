@@ -1,4 +1,9 @@
 """
+This project requires:
+- API hosted on publicly available URL.
+- This automated API test suite.
+- PyTest configured for PyCharm.
+
 Test file for todo_api.py
 - Uses existing API built/hosted by course instructor. Has video demoing how to build it.
 
