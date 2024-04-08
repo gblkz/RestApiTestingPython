@@ -9,7 +9,7 @@ Deploy a defect DB for code review. Need to accommodate all project types:
 - AlgoExpert practice.
 - Pixegami
 - API projects.
-- Guilded Rose refactor kata. Bug initial version. Add bugs as review finds.
+- Guilded Rose refactor kata. Bug initial version as review finds.
 - Use these API techniques with the Space Invader game build.
 
 """
