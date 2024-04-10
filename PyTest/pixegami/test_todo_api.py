@@ -10,7 +10,7 @@ Deploy a defect DB for code review. Need to accommodate all project types:
 - Pixegami
 - API projects.
 - Guilded Rose refactor kata. Bug initial version as review finds.
-- Use these API techniques with the Space Invader game build.
+- Space Invader game build in book "Python Crash Course".
 
 """
 import requests
