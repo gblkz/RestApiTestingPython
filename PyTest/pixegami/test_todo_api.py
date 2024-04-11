@@ -11,6 +11,7 @@ Deploy a defect DB for code review. Need to accommodate all project types:
 - API projects.
 - Guilded Rose refactor kata. Bug initial version as review finds.
 - Space Invader game build in book "Python Crash Course".
+- freeCodeCamp backend projects.
 
 """
 import requests
