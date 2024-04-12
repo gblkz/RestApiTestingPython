@@ -10,7 +10,7 @@ Deploy a defect DB for code review. Need to accommodate all project types:
 - Pixegami
 - API projects.
 - Guilded Rose refactor kata. Bug initial version as review finds.
-- Space Invader game build in book "Python Crash Course".
+- Book projects from "Python Crash Course".
 - freeCodeCamp backend projects.
 
 """
