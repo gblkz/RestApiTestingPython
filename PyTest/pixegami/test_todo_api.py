@@ -21,7 +21,7 @@ ENDPOINT = "https://todo.pixegami.io"
 """
 # Initial demo of principles. Review this video, then maybe move this to an external doc.
 response = requests.get(ENDPOINT)   # Making an HTTP Request.
-print(response)                     # prints just the status code, [200]. How differ from below?
+print(response)                     # prints just the status code, [200]. How differ from status_code?
 data = response.json()              # returns the entire response message.
 print(data)                         # prints the hello message.
 status_code = response.status_code  # returns just the status code.
