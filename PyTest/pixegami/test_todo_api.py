@@ -1,5 +1,5 @@
 """
-This project requires:
+Project Requirements:
 - API hosted on publicly available URL.
     - Use existing API built/hosted by course instructor. Has video demoing how to build it.
 - This automated API test suite.
