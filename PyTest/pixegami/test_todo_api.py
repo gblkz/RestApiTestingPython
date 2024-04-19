@@ -12,7 +12,7 @@ Deploy a defect DB for code review. Need to accommodate all project types:
 - Guilded Rose refactor kata. Bug initial version as review finds.
 - Book projects from "Python Crash Course".
 - freeCodeCamp backend projects. And Derek Banas projects.
-
+- Docker options?
 
 """
 import requests
