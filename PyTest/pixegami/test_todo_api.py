@@ -8,7 +8,7 @@ Project Requirements:
 Deploy a defect DB for code review. Need to accommodate all project types:
 - AlgoExpert practice.
 - Pixegami
-- API projects.
+- API projects. Review Arjan's API Exception handling with FastAPI.
 - Guilded Rose refactor kata. Bug initial version as review finds.
 - Book projects from "Python Crash Course".
 - freeCodeCamp backend projects. And Banas.
