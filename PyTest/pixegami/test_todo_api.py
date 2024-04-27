@@ -12,7 +12,8 @@ Deploy a defect DB for code review. Need to accommodate all project types:
 - Guilded Rose refactor kata. Bug initial version as review finds.
 - Book projects from "Python Crash Course".
 - freeCodeCamp backend projects. And Banas.
-- Review Docker options for deploying Jira. Check freeCodeCamp for Docker deploy.
+- Review Docker options for deploying Jira.
+- freeCodeCamp for Docker deploy.
 
 """
 import requests
