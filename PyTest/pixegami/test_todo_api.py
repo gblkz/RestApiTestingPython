@@ -11,7 +11,6 @@ Deploy a defect DB for code review. Need to accommodate all project types:
 - Book projects from "Python Crash Course".
 - freeCodeCamp backend projects. And Banas.
 - Review Docker options for deploying Jira (freeCodeCamp).
-- freeCodeCamp for Docker deploy.
 
 """
 import requests
