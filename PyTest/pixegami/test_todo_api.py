@@ -6,7 +6,7 @@ Project Requirements:
 - PyTest configured within PyCharm.
 - Need full test suits for each file.
 
-Deploy a defect DB for code review. Need to accommodate all project types:
+Deploy a defect DB for code review. Need to accommodate all project types (won't require all fields used):
 - AlgoExpert practice. Pixegami. API projects. Review Arjan's API Exception handling with FastAPI.
 - Guilded Rose refactor kata. Bug initial version as review finds.
 - Book projects from "Python Crash Course".
