@@ -4,6 +4,7 @@ Project Requirements:
     - Use existing API built/hosted by course instructor. Has video demoing how to build it.
 - This automated API test suite.
 - PyTest configured within PyCharm.
+- Need full test suits for each file.
 
 Deploy a defect DB for code review. Need to accommodate all project types:
 - AlgoExpert practice. Pixegami. API projects. Review Arjan's API Exception handling with FastAPI.
