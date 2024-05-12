@@ -10,8 +10,9 @@ Deploy a defect DB for code review. Need to accommodate all project types (won't
 - AlgoExpert practice. Pixegami. API projects. Review Arjan's API Exception handling with FastAPI.
 - Guilded Rose refactor kata. Bug initial version as review finds.
 - Book projects from "Python Crash Course".
+- Docker options for deploying Jira (freeCodeCamp).
 - Backend projects (freeCodeCamp, Banas).
-- Docker options for deploying Jira (freeCodeCamp). Poop Fair.
+
 
 """
 import requests
