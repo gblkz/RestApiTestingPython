@@ -12,7 +12,8 @@ Deploy a defect DB for code review. Need to accommodate all project types (won't
 - Book projects from "Python Crash Course".
 - Docker options for deploying Jira (freeCodeCamp).
 - Backend projects (freeCodeCamp, Banas).
-- Design projects as well.
+- Sys Design projects.
+- Automation backlog from manual tests. Where does TCM occur?
 
 """
 import requests
