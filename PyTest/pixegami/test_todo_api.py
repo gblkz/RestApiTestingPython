@@ -14,6 +14,7 @@ Deploy a defect DB for code review. Need to accommodate all project types (won't
 - Backend projects (freeCodeCamp, Banas).
 - Sys Design projects.
 - Automation backlog from manual tests. Where does TCM occur?
+- How do we schedule automated test suites?
 
 """
 import requests
