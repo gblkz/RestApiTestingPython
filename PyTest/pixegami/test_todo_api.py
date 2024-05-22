@@ -22,6 +22,7 @@ import requests
 import uuid
 
 ENDPOINT = "https://todo.pixegami.io"
+# ENDPOINT = "https://todo.pixegami.io"
 """
 # Initial demo of principles. Review video, then move section to external doc.
 # Review to understand concepts, don't memorize.
