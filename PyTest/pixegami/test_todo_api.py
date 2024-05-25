@@ -13,9 +13,9 @@ Deploy a defect DB for code review. Need to accommodate all project types (won't
 - Book projects from "Python Crash Course".
 - Docker options for deploying Jira (freeCodeCamp).
 - Backend projects (freeCodeCamp, Banas).
-- Sys Design projects.
-- Automation backlog from manual tests. Where does TCM occur?
-- Schedule automation using CICD or Windows Scheduler. Pri-3.
+- Pri-2. Sys Design projects.
+- Pri-3. Automation backlog from manual tests. Where does TCM occur?
+- Pri-4. Schedule automation using CICD or Windows Scheduler.
 
 """
 import requests
