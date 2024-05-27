@@ -9,10 +9,10 @@ Project Requirements:
 
 Deploy a defect DB for code review. Need to accommodate all project types (won't require all fields used):
 - AlgoExpert practice. Pixegami. API projects. Review Arjan's API Exception handling with FastAPI.
-- Guilded Rose refactor kata. Bug initial version as review finds.
+- Pri-1. Guilded Rose refactor kata. Bug initial version as review finds.
 - Book projects from "Python Crash Course".
 - Docker options for deploying Jira (freeCodeCamp).
-- Backend projects (freeCodeCamp, Banas).
+- Pri-2. Backend projects (freeCodeCamp, Banas).
 - Pri-2. Sys Design projects.
 - Pri-3. Automation backlog from manual tests. Where does TCM occur?
 - Pri-4. Schedule automation using CICD or Windows Scheduler.
@@ -22,7 +22,6 @@ import requests
 import uuid
 
 ENDPOINT = "https://todo.pixegami.io"
-# ENDPOINT = "https://todo.pixegami.io"
 """
 # Initial demo of principles. Review video, then move section to external doc.
 # Review to understand concepts, don't memorize.
