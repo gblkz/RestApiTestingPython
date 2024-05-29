@@ -1,6 +1,5 @@
 """
-Project Requirements:
-- Learn concepts, don't memorize.
+Project Requirements (concepts, not memorize):
 - API hosted on publicly available URL.
     - Use existing API built/hosted by course instructor. Has video demoing how to build it.
 - This automated API test suite.
