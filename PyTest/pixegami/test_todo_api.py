@@ -7,7 +7,7 @@ Project Requirements (concepts, not memorize):
 - Full test suites for each class. Each in its own project folder.
 
 Deploy a defect DB for code review. Need to accommodate all project types (won't require all fields used):
-- Pri-1. AlgoExpert practice. Pixegami. API projects. Review Arjan's API Exception handling with FastAPI.
+- Pri-1. AlgoExpert practice. Pixegami. Review Arjan's API Exception handling with FastAPI.
 - Pri-1. Guilded Rose refactor kata. Bug initial version as review finds.
 - Pri-1: API testing. Should accommodate all suites (find my api test methodology spec).
 - Pri-1. Book projects from "Python Crash Course".
