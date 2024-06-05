@@ -4,7 +4,7 @@ Project Requirements (concepts, not memorize):
     - Use existing API built/hosted by course instructor. Has video demoing how to build it.
 - This automated API test suite.
 - PyTest configured within PyCharm.
-- Full test suites for each class. Separated how?
+- Full test suites for each class. Structure: tests/<suite>/testFile.xyz
 
 Deploy a defect DB for code review. Need to accommodate all project types (won't require all fields used):
 - Pri-1. AlgoExpert practice. Pixegami. Review Arjan's API Exception handling with FastAPI.
