@@ -1,7 +1,7 @@
 """
 Project Requirements (concepts, not memorize):
 - API hosted on publicly available URL.
-    - Use existing API built/hosted by course instructor. Has video demoing how to build it.
+    - Use course hosted API. Has video demoing how to build it.
 - This automated API test suite.
 - PyTest configured within PyCharm.
 - Full test suites for each class. Structure: Project/tests/<suite>/testFile.xyz
