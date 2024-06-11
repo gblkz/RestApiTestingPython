@@ -12,7 +12,7 @@ Deploy a defect DB for code review. Need to accommodate all project types (won't
 - Pri-1: API testing. Should accommodate all suites (find my api test methodology spec).
 - Pri-1. Book projects from "Python Crash Course".
 - Pri-2. Backend projects (freeCodeCamp, Banas).
-- Pri-2. Sys Design projects.
+- Pri-2. System Design projects.
 - Pri-3. Automation backlog from manual tests. Where does TCM occur?
 - Pri-4. Docker options for deploying Jira (freeCodeCamp).
 
