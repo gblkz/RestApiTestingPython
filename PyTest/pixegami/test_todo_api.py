@@ -23,7 +23,7 @@ import uuid
 
 ENDPOINT = "https://todo.pixegami.io"
 """
-# Initial demo of principles. Review video for concepts, don't memorize, then move section to external doc.
+# Initial demo of principles. Review concepts, don't memorize, then move section to external doc.
 response = requests.get(ENDPOINT)   # Making an HTTP Request.
 print(response)                     # prints just the status code, [200]. How differ from status_code?
 data = response.json()              # returns the entire response message.
