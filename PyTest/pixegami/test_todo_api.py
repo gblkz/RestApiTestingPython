@@ -17,6 +17,7 @@ Deploy a defect DB for code review. Need to accommodate all project types (won't
 - Pri-4. Docker options for deploying Jira (freeCodeCamp).
 - Pri-5. Integrate Jira defects into TCM solution.
 
+## Verify uuid is still our best plugin.
 """
 import requests
 import uuid
