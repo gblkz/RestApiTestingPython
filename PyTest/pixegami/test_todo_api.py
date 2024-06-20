@@ -12,12 +12,10 @@ Deploy a defect DB for code review. Need to accommodate all project types (won't
 - Pri-1: API testing. Should accommodate all suites (find my api test methodology spec).
 - Pri-1. Book projects from "Python Crash Course".
 - Pri-2. Backend & Frontend projects (freeCodeCamp, Banas).
+- Pri-2. Docker options for deploying Jira (freeCodeCamp).
 - Pri-2. System Design projects.
 - Pri-3. Automation backlog from manual tests. Where does TCM occur?
-- Pri-4. Docker options for deploying Jira (freeCodeCamp).
-- Pri-5. Integrate Jira defects into TCM solution.
 
-## Verify uuid is still our best module option.
 """
 import requests
 import uuid
