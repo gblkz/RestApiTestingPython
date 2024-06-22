@@ -15,6 +15,7 @@ Deploy a defect DB for code review. Need to accommodate all project types (won't
 - Pri-2. Docker options for deploying Jira (freeCodeCamp).
 - Pri-2. System Design projects.
 - Pri-3. Automation backlog from manual tests. Where does TCM occur?
+- Pri-4. What tool works for TCM and integrates into other automation tools?
 
 """
 import requests
