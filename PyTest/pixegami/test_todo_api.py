@@ -17,7 +17,7 @@ Deploy a defect DB for code review. Need to accommodate all project types (won't
 - Pri-2. All API publications acquired in June.
 - Pri-3. Automation backlog from manual tests. Where does TCM occur?
 - Pri-4. Options for TCM that integrate into other automation tools?
-- pri-6. Something here.
+- pri-6. Something meaningful here. (Don't get lazy).
 """
 import requests
 import uuid
