@@ -13,7 +13,7 @@ Deploy a defect DB for code review. Need to accommodate all project types (won't
 - Pri-1: API testing. Should accommodate all suites (find my api test methodology spec).
 - Pri-1. Book projects from "Python Crash Course".
 - Pri-2. Backend & Frontend projects (freeCodeCamp, Banas).
-- Pri-2. Docker options for deploying Jira (freeCodeCamp).
+- Pri-2. Docker options for deploying Jira (freeCodeCamp). See "software/containers".
 - Pri-2. All API publications acquired in June.
 - Pri-3. Automation backlog from manual tests. Where does TCM occur?
 - Pri-4. Options for TCM that integrate into other automation tools?
