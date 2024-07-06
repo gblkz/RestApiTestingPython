@@ -9,12 +9,12 @@ Project Requirements (concepts, not memorize):
 Deploy a defect DB for code review. Need to accommodate all project types (won't require all fields used):
 ** What differences between the below project types that might impact a jira config?
 - Pri-1. AlgoExpert practice. Pixegami. Review Arjan's API Exception handling with FastAPI.
-- Pri-1. Guilded Rose refactor kata. Bug initial version as review finds.
-- Pri-1: API testing. Should accommodate all suites (find my api test methodology spec).
-- Pri-1. Book projects from "Python Crash Course".
+    - Guilded Rose refactor kata. Bug initial version as review finds.
+    - API testing. Should accommodate all suites (find my api test methodology spec).
+    - Book projects from "Python Crash Course".
 - Pri-2. Backend & Frontend projects (freeCodeCamp, Banas).
-- Pri-2. Docker options for deploying Jira (freeCodeCamp). See "software/containers".
-- Pri-2. All API publications acquired in June.
+    - Docker options for deploying Jira (freeCodeCamp). See "software/containers".
+    - All API publications acquired in June.
 - Pri-3. Automation backlog from manual tests. Where does TCM occur?
 - Pri-4. Options for TCM that integrate into other automation tools?
 
