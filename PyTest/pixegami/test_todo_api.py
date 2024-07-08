@@ -23,11 +23,11 @@ import requests
 import uuid
 
 ENDPOINT = "https://todo.pixegami.io"
-# ENDPOINT = "https://todo.pixegami.io"
+# ENDPOINT = "https://www.google.com"
 
 """
 # Initial demo of principles. Review concepts, don't memorize.
-# Move section to external doc once groked.
+# Move section to external doc once grokked.
 response = requests.get(ENDPOINT)   # Making an HTTP Request.
 print(response)                     # prints just the status code, [200]. How differ from status_code?
 data = response.json()              # returns the entire response message.
