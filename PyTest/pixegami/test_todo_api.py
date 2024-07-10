@@ -29,7 +29,7 @@ ENDPOINT = "https://todo.pixegami.io"
 # Move section to external doc once grokked.
 response = requests.get(ENDPOINT)   # HTTP Request.
 print(response)                     # prints just the status code, [200].
-data = response.json()              # returns the entire response message.
+data = response.json()              # returns entire response message.
 print(data)                         # prints the hello message.
 status_code = response.status_code  # returns just the status code.
 print(status_code)                  # prints just the status code.
