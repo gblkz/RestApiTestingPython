@@ -23,7 +23,7 @@ import requests
 import uuid
 
 ENDPOINT = "https://todo.pixegami.io"
-
+# test_ENDPOINT = "https://todo.pixegami.io"
 """
 # Initial demo of principles. Review concepts, don't memorize.
 # Move section to external doc once grokked.
