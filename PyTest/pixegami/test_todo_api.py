@@ -17,7 +17,6 @@ Deploy a defect DB for code review. Need to accommodate all project types (won't
     - All API publications acquired in June.
 - Pri-3. Automation backlog from manual tests. Where does TCM occur?
     - Options for TCM that integrate into other automation tools?
-    - Verify no lame stuff.
 
 """
 import requests
