@@ -19,6 +19,7 @@ Deploy a defect DB for code review. Need to accommodate all project types (won't
     - Options for TCM that integrate into other automation tools?
 - Pri-4: Add a field for test case ID.
     - Add field for test approach (TDD, BDD, etc.).
+- Pri-5: shut your stupid face.
 
 """
 import requests
