@@ -17,7 +17,7 @@ Deploy a defect DB for code review. Need to accommodate all project types (won't
     - Docker options for deploying Jira (freeCodeCamp). See "software/containers".
     - All API publications acquired in June.
 - Pri-3. Automation backlog from manual tests. Where does TCM occur?
-    - Options for TCM that integrate into other automation tools?
+    - Options for TCM that integrate into other automation tools? Not a jira matter.
 - Pri-4: Add a field for test case ID.
     - Add field for test approach (TDD, BDD, etc.).
 
