@@ -20,7 +20,7 @@ Deploy a defect DB for code review. Need to accommodate all project types (won't
     - Options for TCM that integrate into other automation tools? Not a jira matter.
 - Pri-4: Add a field for test case ID.
     - Add field for unit test approach (TDD, BDD, etc.).
-
+- Pri-5. Failed automation tests should generate a defect.
 """
 import requests
 import uuid
