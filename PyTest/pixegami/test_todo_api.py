@@ -7,7 +7,7 @@ Project Requirements (concepts, not memorize):
 - Full test suites for each class. Structure: Project/tests/<suite>/testFile.xyz
 
 Deploy a defect DB for code review. Need to accommodate all project types (won't require all fields used):
-** What differences between the below project types that might impact jira config?
+** What differences between the below project types might impact jira config?
 - Pri-1. AlgoExpert practice. Pixegami. Review Arjan's API Exception handling with FastAPI.
     - Guilded Rose refactor kata. Bug initial version as review finds.
     - API testing. Should accommodate all suites (find my api test methodology spec).
