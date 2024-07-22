@@ -12,7 +12,6 @@ Deploy a defect DB for code review. Need to accommodate all project types (won't
     - Guilded Rose refactor kata. Bug initial version as review finds.
     - API testing. Should accommodate all suites (find my api test methodology spec).
     - Book projects from "Python Crash Course".
-    - What about other languages? For my use, I'll need a language/tech stack field for easier searching.
 - Pri-2. Backend & Frontend projects (freeCodeCamp, Banas).
     - Docker options for deploying Jira (freeCodeCamp). See "software/containers".
     - All API publications acquired in June.
