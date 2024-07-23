@@ -11,7 +11,6 @@ Deploy a defect DB for code review. Need to accommodate all project types (won't
 - Pri-1. AlgoExpert practice. Pixegami. Review Arjan's API Exception handling with FastAPI.
     - Guilded Rose refactor kata. Bug initial version as review finds.
     - API testing. Should accommodate all suites (find my api test methodology spec).
-    - Book projects from "Python Crash Course".
 - Pri-2. Backend & Frontend projects (freeCodeCamp, Banas).
     - Docker options for deploying Jira (freeCodeCamp). See "software/containers".
     - All API publications acquired in June.
