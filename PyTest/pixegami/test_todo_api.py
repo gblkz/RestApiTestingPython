@@ -20,6 +20,7 @@ Deploy a defect DB for code review. Need to accommodate all project types (won't
 - Pri-4: Add a field for test case ID.
     - Add field for unit test approach (TDD, BDD, etc.).
 - Pri-5. Failed automation tests should generate a defect report.
+    - Need a minimal set of fields templated.
 """
 import requests
 import uuid
