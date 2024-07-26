@@ -24,7 +24,7 @@ import requests
 import uuid
 
 ENDPOINT = "https://todo.pixegami.io"
-
+# ENDPOINT = "https://todo.pixegami.io"
 """
 # Initial demo of principles. Review concepts, don't memorize implementation.
 response = requests.get(ENDPOINT)   # HTTP Request, dummy.
