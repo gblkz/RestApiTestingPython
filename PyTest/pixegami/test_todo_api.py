@@ -19,7 +19,7 @@ Deploy a defect DB for code review. Need to accommodate all project types (won't
 - Pri-4: Template fields:
     - test case ID. automation methodology (TDD, BDD, etc.).
 - Pri-5. Failed automation tests should generate a defect report.
-- Pri-6: Some awesome thing that's whack.
+- Pri-6: No, whack isn't going to work.
 """
 import requests
 import uuid
