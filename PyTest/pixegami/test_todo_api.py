@@ -16,10 +16,11 @@ Deploy a defect DB for code review. Need to accommodate all project types (won't
     - All API publications acquired in June.
 - Pri-3. Automation backlog from manual tests. Where does TCM occur?
     - Options for TCM that integrate into other automation tools? Not a jira matter.
+    - Integrate into CICD for checkin gatekeeping.
 - Pri-4: Template fields:
     - test case ID. automation methodology (TDD, BDD, etc.).
 - Pri-5. Failed automation tests should generate a defect report.
-- Pri-6: No, whack isn't going to work.
+- Pri-6:
 """
 import requests
 import uuid
