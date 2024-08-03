@@ -20,6 +20,7 @@ Deploy a defect DB for code review. Need to accommodate all project types (won't
 - Pri-4: Template fields:
     - test case ID. automation methodology (TDD, BDD, etc.).
 - Pri-5. Failed automation tests should generate a defect report.
+    - Email alias should get email with all new defects from the run.
 """
 import requests
 import uuid
