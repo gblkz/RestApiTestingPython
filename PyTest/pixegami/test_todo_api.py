@@ -19,7 +19,7 @@ Deploy a defect DB for code review. Need to accommodate all project types (won't
     - Integrate into CICD for checkin gatekeeping.
 - Pri-4: Template fields:
     - test case ID. automation methodology (TDD, BDD, etc.).
-- Pri-5. Failed automation tests should generate a defect report and a daily email report.
+- Pri-5. Automated defect report generated with a daily email report.
 """
 import requests
 import uuid
